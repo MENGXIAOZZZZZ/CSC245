@@ -1,4 +1,13 @@
 # CSC245
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/5ac2927c-cf94-4794-8b0c-8d6b421788fe)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/66f9d3a3-fd11-40ed-af54-326cd322978f)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/1899bf37-757c-44ca-abb6-b31db8f514e9)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/85eeea27-40eb-4153-8018-d147e379d5d0)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/7f5d5c60-4107-49dd-9820-3592706aad46)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/064960d1-c3db-4e32-8770-fd85dc62e7dc)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab1/assets/166454688/1e80b317-0268-4f65-b4a1-1fd80413dc64)
+
+
 
 import numpy as np
 # 1.Create a rank 2 (2D) array
